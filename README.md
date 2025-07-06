@@ -31,7 +31,7 @@ This C++ project simulates a simplified version of a social networking platform,
 
 ---
 
-## 🚀 Features
+## Features
 
 - **Add New Member** – Collect and store personal data including nickname, names, place, date of birth, and optional group affiliations.
 - **Search Members** – Locate members by nickname.
