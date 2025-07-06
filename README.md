@@ -6,16 +6,16 @@ A lightweight, console-based C++ application that simulates basic social network
 
 ## 📌 Table of Contents
 
-- [Overview](#🧩-overview)
-- [Features](#features)
-- [Project Structure](#project-structure)
-- [Getting Started](#getting-started)
-- [Usage](#usage)
-- [Testing](#testing)
-- [Improvements and Future Work](#improvements-and-future-work)
-- [Difficulties Encountered](#difficulties-encountered)
-- [Author](#author)
-- [License](#license)
+- [Overview](#-overview)
+- [Features](#-features)
+- [Project Structure](#-project-structure)
+- [Getting Started](#-getting-started)
+- [Usage](#-usage)
+- [Testing](#-testing)
+- [Improvements and Future Work](#-improvements-and-future-work)
+- [Difficulties Encountered](#-difficulties-encountered)
+- [Author](#-author)
+- [License](#-license)
 
 ---
 
@@ -31,7 +31,7 @@ This C++ project simulates a simplified version of a social networking platform,
 
 ---
 
-## Features
+## 🚀 Features
 
 - **Add New Member** – Collect and store personal data including nickname, names, place, date of birth, and optional group affiliations.
 - **Search Members** – Locate members by nickname.
