@@ -6,7 +6,7 @@ A lightweight, console-based C++ application that simulates basic social network
 
 ## 📌 Table of Contents
 
-- [Overview](#overview)
+- [Overview](#🧩-overview)
 - [Features](#features)
 - [Project Structure](#project-structure)
 - [Getting Started](#getting-started)
